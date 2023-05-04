@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class>
+
+    <ahm1:student xmlns:ahm1="http://www.w3.org/TR/html4/">
+        <ahm1:name>Ahmed</ahm1:name>
+        <ahm1:age>18</ahm1:age>
+    </ahm1:student>
+
+    <ahm2:student xmlns:ahm2="http://www.w3.org/TR/html4/">
+        <ahm2:name>Ahmed</ahm2:name>
+        <ahm2:age>25</ahm2:age>
+    </ahm2:student>
+
+    <student>
+        <name>Irfan</name>
+        <age>26</age>
+    </student>
+
+    <student>
+        <name>Bilal</name>
+        <age>24</age>
+    </student>
+
+    <student>
+        <name>Javed</name>
+        <age>21</age>
+    </student>
+
+    <student>
+        <name>Salman</name>
+        <age>20</age>
+    </student>
+
+
+</Class>

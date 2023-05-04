@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Cricket_Team [
+    <!ELEMENT Cricket_Team (Player+)>
+    <!ELEMENT Player (name,age,height,skill,(Jersey-num|player-num))>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT height (#PCDATA)>
+    <!ELEMENT skill (#PCDATA)>
+    <!ELEMENT Jersey-num (#PCDATA)>
+    <!ELEMENT player-num (#PCDATA)>
+    <!ATTLIST Cricket_Team team CDATA #REQUIRED>
+    <!ATTLIST Player attr CDATA " ">
+]>
+<Cricket_Team team="Pakistan">
+
+<Player attr="captian">
+<name>M.Rizwan</name>
+<age>30</age>
+<height>5ft 7inch</height>
+<skill>Batsman,W.keeper</skill>
+<Jersey-num>16</Jersey-num>
+</Player>
+
+<Player>
+<name>Babar Azam</name>
+<age>28</age>
+<height>5ft 11inch</height>
+<skill>Batsman,Bowler</skill>
+<player-num>56</player-num>
+</Player>
+
+<Player>
+<name>M.Haris</name>
+<age>22</age>
+<height>5ft 4inch</height>
+<skill>Batsman</skill>
+<Jersey-num>29</Jersey-num>
+</Player>
+
+<Player>
+<name>Fakhar Zaman</name>
+<age>33</age>
+<height>5ft 10inch</height>
+<skill>Batsman,Bowler</skill>
+<player-num>39</player-num>
+</Player>
+
+<Player>
+<name>Ifthikar Ahmed</name>
+<age>32</age>
+<height>5ft 10inch</height>
+<skill>Batsman,Bowler</skill>
+<Jersey-num>95</Jersey-num>
+</Player>
+
+<Player>
+<name>Shahdab khan</name>
+<age>24</age>
+<height>5ft 10inch</height>
+<skill>Batsman,Bowler</skill>
+<player-num>07</player-num>
+</Player>
+
+<Player>
+<name>Imad Wasim</name>
+<age>34</age>
+<height>6ft 1inch</height>
+<skill>Batsman,Bowler</skill>
+<Jersey-num>09</Jersey-num>
+</Player>
+
+<Player>
+<name>M.Nawaz</name>
+<age>29</age>
+<height>5ft 10inch</height>
+<skill>Batsman,Bowler</skill>
+<player-num>21</player-num>
+</Player>
+
+<Player>
+<name>Haris Rauf</name>
+<age>29</age>
+<height>5ft 11inch</height>
+<skill>Bowler</skill>
+<Jersey-num>97</Jersey-num>
+</Player>
+
+<Player>
+<name>Naseem Shah</name>
+<age>20</age>
+<height>5ft 10inch</height>
+<skill>Bowler</skill>
+<player-num>71</player-num>
+</Player>
+
+<Player>
+<name>Shaheen Afridi</name>
+<age>23</age>
+<height>6ft 6inch</height>
+<skill>Bowler</skill>
+<Jersey-num>10</Jersey-num>
+</Player>
+
+
+</Cricket_Team>

@@ -1,0 +1,10 @@
+<!ELEMENT Cricket_Team (Player+)>
+<!ELEMENT Player (name,age,height,skill,(Jersey-num|player-num))>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT skill (#PCDATA)>
+<!ELEMENT Jersey-num (#PCDATA)>
+<!ELEMENT player-num (#PCDATA)>
+<!ATTLIST Cricket_Team team CDATA #REQUIRED>
+<!ATTLIST Player attr CDATA " ">

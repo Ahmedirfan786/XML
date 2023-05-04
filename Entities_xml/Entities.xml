@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tech.pk SYSTEM "Ent_external.dtd"[
+<!ENTITY skill1 "HTML">
+<!ENTITY skill2 "CSS">
+<!ENTITY skill3 "JAVASCRIPT">
+<!ENTITY skill4 "XML">
+<!ENTITY skill5 "PHP">
+<!ENTITY skill6 "GIT">
+<!ENTITY skill7 "SASS">
+<!ENTITY skill8 "BOOTSTRAP">
+<!ENTITY skill9 "JQUERY">
+<!ENTITY skill10 "PYTHON">
+]>
+<Tech.pk>
+
+<employee id="e1">
+<name>Ahmed</name>
+<age>18</age>
+<qualification>M.Com</qualification>
+<skill>&skill1;,&skill2;,&skill3;,&skill10;</skill>
+<email>ahmed18@gmail.com</email>
+</employee>
+
+<employee id="e2">
+<name>Irfan</name>
+<age>27</age>
+<qualification>B.Com</qualification>
+<skill>&skill4;,&skill5;,&skill6;,&skill3;,&skill9;</skill>
+<phone>000-000-001</phone>
+</employee>
+
+<employee id="e3">
+<name>Bilal</name>
+<age>25</age>
+<qualification>B.Arts</qualification>
+<skill>&skill1;,&skill2;,&skill7;,&skill8;</skill>
+<email>bilal360@gmail.com</email>
+</employee>
+
+<employee id="e4">
+<name>Wasim</name>
+<age>35</age>
+<qualification>B.Sc</qualification>
+<skill>&skill5;,&skill10;</skill>
+<phone>000-000-002</phone>
+</employee>
+              
+</Tech.pk>

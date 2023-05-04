@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is an intro file of xml without any dtd,schema or xslt -->
+<Apple>
+
+    <employee>
+        <name>Kevin</name>
+        <id>120</id>
+        <age>27</age>
+        <qualification>B.Tech</qualification>
+        <date_of_bith>1996-02-11</date_of_bith>
+        <email>Kevin23@gmail.com</email>
+        <join_date>2015-11-25</join_date>
+    </employee>
+
+     <employee>
+        <name>Peterson</name>
+        <id>121</id>
+        <age>21</age>
+        <qualification>M.Com</qualification>
+        <date_of_bith>2002-12-01</date_of_bith>
+        <email>Kevin23@gmail.com</email>
+        <join_date>2015-11-25</join_date>
+    </employee>
+
+    <employee>
+        <name>Brook</name>
+        <id>122</id>
+        <age>24</age>
+        <qualification>M.Arts</qualification>
+        <date_of_bith>1999-05-18</date_of_bith>
+        <email>Kevin23@gmail.com</email>
+        <join_date>2015-11-25</join_date>
+    </employee>
+
+</Apple>

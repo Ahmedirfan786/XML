@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<Walmart>
+
+    <Product>
+        <track-id>856</track-id>
+        <name>Gaming Headsets</name>
+        <weight>1.00kg</weight>
+        <price>$2.60</price>
+        <brand>Logitech</brand>
+        <condition>New</condition>
+        <date_of_mfg>2023-01-08</date_of_mfg>
+        <mfg-country>Japan</mfg-country>
+        <picture>headphone.jpg</picture>
+    </Product>
+
+    <Product>
+        <track-id>953</track-id>
+        <name>Mechanical Keyboard</name>
+        <weight>0.75kg</weight>
+        <price>$7.80</price>
+        <brand>Corsair</brand>
+        <condition>Slightly used</condition>
+        <date_of_mfg>2023-02-16</date_of_mfg>
+        <mfg-country>UK</mfg-country>
+        <picture>Keyboard.jpg</picture>
+    </Product>
+
+    <Product>
+        <track-id>719</track-id>
+        <name>Smart phone</name>
+        <weight>0.80kg</weight>
+        <price>$15.00</price>
+        <brand>Iphone</brand>
+        <condition>Refurbished</condition>
+        <date_of_mfg>2022-11-17</date_of_mfg>
+        <mfg-country>USA</mfg-country>
+        <picture>Iphone.jpg</picture>
+    </Product>
+
+    <Product>
+        <track-id>125</track-id>
+        <name>RC Car</name>
+        <weight>1.40kg</weight>
+        <price>$8.15</price>
+        <brand>ARRMA</brand>
+        <condition>New</condition>
+        <date_of_mfg>2023-01-08</date_of_mfg>
+        <mfg-country>Germany</mfg-country>
+        <picture>RC Car.jpg</picture>
+    </Product>
+
+    <Product>
+        <track-id>269</track-id>
+        <name>Playstation 1</name>
+        <weight>1.50kg</weight>
+        <price>$30.60</price>
+        <brand>Sony</brand>
+        <condition>Old</condition>
+        <date_of_mfg>2002-08-05</date_of_mfg>
+        <mfg-country>Russia</mfg-country>
+        <picture>PS1.jpg</picture>
+    </Product>
+
+  
+
+</Walmart>

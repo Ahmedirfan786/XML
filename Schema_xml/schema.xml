@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<College>
+
+    <Student>
+        <id>180</id>
+        <name>Ahmed irfan</name>
+        <age>25</age>
+        <email>ahmed_180@gmail.com</email>
+        <phone>0123-4567-8901</phone>
+        <date_of_bith>1997-02-08</date_of_bith>
+        <city>Karachi</city>
+    </Student>
+
+    <Student>
+        <id>181</id>
+        <name>Bilal Ahmed</name>
+        <age>18</age>
+        <email>Bilal-270@gmail.com</email>
+        <phone>0123-4567-8902</phone>
+        <date_of_bith>2004-07-14</date_of_bith>
+        <city>Lahore</city>
+    </Student>
+
+    <Student>
+        <id>182</id>
+        <name>Haris Ali</name>
+        <age>27</age>
+        <email>Haris_360@gmail.com</email>
+        <phone>0123-4567-8903</phone>
+        <date_of_bith>1995-11-19</date_of_bith>
+        <city>Quetta</city>
+    </Student>
+
+</College>

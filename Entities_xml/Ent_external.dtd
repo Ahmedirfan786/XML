@@ -1,0 +1,9 @@
+<!ELEMENT Tech.pk (employee+)>
+<!ELEMENT employee (name,age,qualification,skill,(email|phone))>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT qualification (#PCDATA)>
+<!ELEMENT skill (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST employee id CDATA "0">
